@@ -1,0 +1,29 @@
+th {
+  text-align: left !important;
+}
+
+table {
+  white-space: nowrap;
+}
+
+.bttn-material-flat.bttn-primary {
+    background: #3c8dbc;
+    color: #fff;
+}
+
+
+.bg-aqua{
+  background-color:#FF5C5C !important;
+}
+
+#prevBtn,
+#nextBtn{
+  margin: 0px 0px 0px 0px !important;
+  display: block;
+}
+
+
+.main-header .logo {
+  font-weight: bold;
+  font-size: 18px;
+}
