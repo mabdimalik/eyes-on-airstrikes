@@ -1,6 +1,6 @@
 # Eyes on Airstrikes: The War on Terror in Somalia
 
-This is a basic online interactive mapping tool and data explorer to help track and document the decade old - and still ongoing air raids against terror groups in Somalia. To learn more or contribute to this project, please email [mohamed @ abdimalik dot com]. We look forward to hearing from you!
+This is a basic online interactive mapping tool and data explorer to help track and document the decade old - and still ongoing air raids against terror groups in Somalia. To learn more or contribute to this project, please email [abdimalik at tutanota dot com]. We look forward to hearing from you!
 
 The app is live at this link: https://talo.shinyapps.io/airstrikes/
 
